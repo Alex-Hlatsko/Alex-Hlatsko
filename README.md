@@ -2,9 +2,15 @@
 
 ## About Me
 
-## My skills
-![Flutter](https://img.shields.io/badge/-Flutter-0F0C16?style=for-the-badge&logo=flutter&logoColor=DA7933)
 
-![Html](https://img.shields.io/badge/-Html-0F0C16?style=for-the-badge&logo=react&logoColor=DA7933)
+## My skills
+![Html](https://img.shields.io/badge/-html-F09C38?style=for-the-badge&logo=html&logoColor=FFFFFF)
+![Css](https://img.shields.io/badge/-Css-3877F0?style=for-the-badge&logo=css&logoColor=FFFFFF)
+![Js](https://img.shields.io/badge/-Js-F3C214?style=for-the-badge&logo=JavaScript&logoColor=FFFFFF)
+![Bootstrap](https://img.shields.io/badge/-bootstrap-9E14F3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)
+![Gulp](https://img.shields.io/badge/-gulp-F33C14?style=for-the-badge&logo=gulp&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/-react-14CBF3?style=for-the-badge&logo=react&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/-python-4ECE2E?style=for-the-badge&logo=python&logoColor=FFFFFF)
+
 
 ## Follow Me
