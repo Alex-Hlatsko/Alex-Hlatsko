@@ -1,7 +1,6 @@
 ![Header](https://github.com/Alex-Hlatsko/Alex-Hlatsko/blob/main/assets/_header.jpg)
 
-# About Me
-### Hi there! I am a beginner frontend developer. I like to learn something new. I never stand still and try to be the best in everything
+![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&bg_color=161616&title_color=FFFFFF&icon_color=23F6EA&text_color=FFFFFF&border_color=23F6EA)
 
 # My skills
 ![Html](https://img.shields.io/badge/-html-161616?style=for-the-badge&logo=html&logoColor=FFFFFF)
