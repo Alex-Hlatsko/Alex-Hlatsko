@@ -12,6 +12,7 @@
 ![Gulp](https://img.shields.io/badge/-gulp-161616?style=for-the-badge&logo=gulp&logoColor=23F6EA)
 ![React](https://img.shields.io/badge/-react-161616?style=for-the-badge&logo=react&logoColor=23F6EA)
 ![Python](https://img.shields.io/badge/-python-161616?style=for-the-badge&logo=python&logoColor=23F6EA)
+![NodeJS](https://img.shields.io/badge/-node-161616?style=for-the-badge&logo=node.js&logoColor=23F6EA)
 
 
 # Follow Me
