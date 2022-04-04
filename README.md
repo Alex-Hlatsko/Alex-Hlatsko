@@ -19,4 +19,4 @@
 # Follow Me
 [![YouTube](https://img.shields.io/badge/-youtube-161616?style=for-the-badge&logo=youtube&logoColor=23F6EA)](https://www.youtube.com/channel/UCZ_7V0VWKwrtseVedx_H4Ag)
 [![Instagram](https://img.shields.io/badge/-instagram-161616?style=for-the-badge&logo=instagram&logoColor=23F6EA)](https://www.instagram.com/alex_hlatsko/)
-[![Facebook](https://img.shields.io/badge/-instagram-161616?style=for-the-badge&logo=facebook&logoColor=23F6EA)](https://www.facebook.com/alexey.hlatsko/)
+[![Facebook](https://img.shields.io/badge/-facebook-161616?style=for-the-badge&logo=facebook&logoColor=23F6EA)](https://www.facebook.com/alexey.hlatsko/)
