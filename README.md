@@ -1,6 +1,7 @@
 ![Header](https://github.com/Alex-Hlatsko/Alex-Hlatsko/blob/main/assets/_header.jpg)
 
-![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-hlatsko&show_icons=true&theme=radical&bg_color=161616&title_color=FFFFFF&icon_color=23F6EA&text_color=FFFFFF&border_color=23F6EA)
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-hlatsko&show_icons=true&theme=radical&bg_color=161616&title_color=FFFFFF&icon_color=23F6EA&text_color=FFFFFF&border_color=23F6EA)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Alex GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-hlatsko&layout=compact&langs_count=10&theme=radical&bg_color=161616&title_color=FFFFFF&icon_color=23F6EA&text_color=FFFFFF&border_color=23F6EA)
 
 
